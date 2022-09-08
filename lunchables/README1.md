@@ -1,0 +1,1 @@
+This is a react app using both react adn react native, i realize i needed yarn to get some components to work, so this will be a monstrosity of a project that i will eventually link to the city explorer
